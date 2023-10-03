@@ -86,6 +86,27 @@ p {
     background-color: #2589bd;
 }
 
+.benefit-block{
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+.benefit-block h3{
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.benefit-block img{
+    display: block;
+    margin: 10px auto;
+    max-width: 150px; 
+
+}
+/* in lines from 89 till 104 I have written three classes which allows us to dry it up and make the code more clean because
+there were mulitiple classes for functions in the classes above and I reduced it to just three classes and before it was ten classes.
+these changes have been dryed up which is where the functions that are in these have been made concise */
+
+/* 
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
@@ -99,9 +120,11 @@ p {
 .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
-}
+} */
 
-.benefit-lead h3 {
+
+
+/* .benefit-lead h3 {
     margin-bottom: 10px;
     text-align: center;
 }
@@ -114,9 +137,16 @@ p {
 .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
-}
+} */
 
-.benefit-lead img {
+/* .benefit-block img{
+    display: block;
+    margin: 10px auto;
+    max-width: 150px; 
+
+} */
+
+/* .benefit-lead img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
@@ -132,9 +162,9 @@ p {
     display: block;
     margin: 10px auto;
     max-width: 150px;
-}
+} */
 
-.search-engine-optimization {
+/* .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -159,9 +189,29 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
-}
+} */
 
-.search-engine-optimization img {
+.content-block{
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+.content-block img{
+    max-height: 200px;
+}
+.content-block h2{
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+/* from lines 192  until 207 I have also created three classes to do to the function of the commented lines of code which are below 
+ and it also allows us to dry it up and make the code more clean because there were mulitiple classes for functions in the classes 
+ above and I reduced it to just three classes and before it was ten classes. these changes have been dryed up which is 
+ where the functions that are in these have been made concise*/
+
+/* .search-engine-optimization img {
     max-height: 200px;
 }
 
@@ -171,9 +221,9 @@ p {
 
 .social-media-marketing img {
     max-height: 200px;
-}
+} */
 
-.search-engine-optimization h2 {
+/* .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
@@ -186,7 +236,7 @@ p {
 .social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
-}
+} */
 
 .footer {
     padding: 30px;
