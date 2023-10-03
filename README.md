@@ -2,7 +2,8 @@
 
 ## Description
 
-This project is modify existing code that needs to be modified and refactored to help meet a certain standard or intergrate new technology. In this project, a marketing agency has hired us to refactor an existing site to make it more accessible for the user.Web accessibility is very important for businesses becuse it allows people with disabilities to access their site. It helps businesses avoid potential litigation that can happen when people with disabilities cannot access the website.
+This project is modify existing code that needs to be modified and refactored to help meet a certain standard or intergrate new technology. In this project, a marketing agency has hired us to refactor an existing site to make it more accessible for the user.Web accessibility is very important for businesses becuse it allows people with disabilities to access their site. It helps businesses avoid potential litigation that can happen when people with disabilities cannot access the website. I learned the importance of making sure to not repeat yourself when 
+coding and making sure it short and consise. I understood the value making sure code is not long.
 
 ### User Story
 
@@ -35,7 +36,8 @@ The steps required to access is throught this link (https://sidiq96.github.io/ac
 
 ## Usage
 
-N/A
+The website allows the user to navigate to different parts on the site, throught the navigation bar which located in the top
+of the page. Clicking any of the links will allows user to jump right to the part of the website they want to move to. The website allows user to gain more information about the company.
 
 ## Credits
 
